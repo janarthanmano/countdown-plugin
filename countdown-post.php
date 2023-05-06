@@ -3,7 +3,7 @@
  * Plugin Name:     Countdown post
  * Plugin URI:      PLUGIN SITE HERE
  * Description:     A custom plugin to create custom post type countdown and template pages
- * Author:          Jana
+ * Author:          Jana & Udhaya
  * Author URI:      YOUR SITE HERE
  * Text Domain:     countdown-post
  * Domain Path:     /languages
